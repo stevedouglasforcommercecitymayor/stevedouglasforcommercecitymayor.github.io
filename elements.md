@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Issue One
 nav-menu: true
 ---
 

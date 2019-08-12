@@ -17,11 +17,12 @@
         <div class="inner">
             <header class="major">
                 <h1>{{ page.landing-title }}</h1>
+                <h2>{{ site.description }}</h2>
             </header>
             <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
                 <ul class="actions">
-                    <li><a href="#one" class="button next scrolly">Get Started</a></li>
+                    <li><a href="#one" class="button next scrolly">Learn More</a></li>
+                    <li><a href="https://secure.actblue.com/donate/steve4ccmayor" class="button">Donate</a></li>
                 </ul>
             </div>
         </div>
@@ -29,23 +30,7 @@
 
     <!-- Main -->
     <div id="main">
-
-        <!-- One -->
-        {% include tiles.html %}
-
-        <!-- Two -->
-        <section id="two">
-            <div class="inner">
-                <header class="major">
-                    <h2>Massa libero</h2>
-                </header>
-                <p>{{ content }}</p>
-                <ul class="actions">
-                    <li><a href="landing.html" class="button next">Get Started</a></li>
-                </ul>
-            </div>
-        </section>
-
+        {% include issues.html %}
     </div>
 
     {% include footer.html %}
