@@ -5,6 +5,12 @@
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<a href="{{ "" | absolute_url }}" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
 	<nav>
+		{% if site.twitter_url %}
+		<a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a>
+		{% endif %}
+		{% if site.facebook_url %}
+		<a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a>
+		{% endif %}
 		<a href="https://secure.actblue.com/donate/steve4ccmayor">Donate</a>
 	</nav>
 </header>
