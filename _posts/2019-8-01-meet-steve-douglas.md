@@ -1,22 +1,8 @@
 ---
 layout: post
-title: Meet Steve Douglas
-description: Id ad quis anim consequat excepteur culpa eu labore nostrud nisi. Enim exercitation excepteur ullamco adipisicing deserunt ullamco nostrud laborum occaecat aliqua ipsum ad dolor sit. Proident deserunt sit deserunt pariatur pariatur cillum anim mollit esse. Sunt et culpa tempor voluptate consequat deserunt consectetur pariatur do voluptate laborum est. In nostrud in commodo tempor exercitation sunt sint consectetur cillum commodo exercitation quis.
+title: Meet Steve
+description: As a current Councilman in my eighth year of serving, I am prepared and ready to take on the challenging position of Mayor. Even before taking office, I was engaged in the community, serving on many boards and commissions which prepared me for office. I have found the key to success is to become engaged, stay engaged, always be accessible, and always follow through, no matter the outcome. I understand the value of being consistent, genuine, and true to your beliefs with courage to speak out - and then to stand by your convictions. The highest compliment I have ever received is to hear someone say that I am genuine, and that they trust me. I am running because I feel like each person in Commerce City matters, and they deserve to have what everyone else might take for granted – the best that life has to offer.
 image: assets/images/portrait.jpg
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+As a current Councilman in my eighth year of serving, I am prepared and ready to take on the challenging position of Mayor. Even before taking office, I was engaged in the community, serving on many boards and commissions which prepared me for office. I have found the key to success is to become engaged, stay engaged, always be accessible, and always follow through, no matter the outcome. I understand the value of being consistent, genuine, and true to your beliefs with courage to speak out - and then to stand by your convictions. The highest compliment I have ever received is to hear someone say that I am genuine, and that they trust me. I am running because I feel like each person in Commerce City matters, and they deserve to have what everyone else might take for granted – the best that life has to offer.
