@@ -3,8 +3,8 @@ title: Steve Douglas for Commerce City Mayor
 subtitle: Because You Matter
 email: SteveForCCMayor@gmail.com
 description: ...because YOU Matter!
-baseurl: # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: ""
+url: https://stevedouglasforcommercecitymayor.com
 author:
 street_address:
 city:
